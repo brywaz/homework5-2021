@@ -75,7 +75,7 @@ nav a:link:hover{
   -webkit-transition: top 1s ease-out;
   transition: top 1s ease-out;
   z-index: 1;
-  position: absolute;
+  position: fixed;
   top: -40px;
 }
 
@@ -86,8 +86,8 @@ nav a:link:hover{
   -webkit-transition: top 1s ease-out;
   transition: top 1s ease-out;
   z-index: 1;
-  position: absolute;
-  top: 0px;
+  position: fixed;
+  top: 40px;
 }
 
 
